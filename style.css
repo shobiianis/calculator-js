@@ -1,0 +1,24 @@
+.container{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+button{
+    width: 50px;
+    margin-top: 10px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius:50%;
+    background-color: orange;
+}
+
+#display{
+
+width: 20%;
+height:50px;
+
+
+}
